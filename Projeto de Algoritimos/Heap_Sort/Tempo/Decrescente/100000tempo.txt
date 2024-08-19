@@ -1,0 +1,1 @@
+Tempo de exec foi: 0.01600
